@@ -123,6 +123,7 @@ body{
 
 }
 
+
 .weather-details .humidity, .weather-details .wind{
     display: flex;
     align-items: center;
